@@ -1,4 +1,4 @@
-# HireCast – Seasonal Hiring Trends & Forecast  
+# Team D: HireCast – Seasonal Hiring Trends & Forecast  
 **DATA 606 Capstone Project (Fall 2025)**  
 **Team D – Rithesh Donthoju, Kishan Haravu Pradeep, Vineeth Jutur**
 
