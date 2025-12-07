@@ -29,7 +29,7 @@ Our goal is to build a predictive model that identifies peak hiring months and f
 ---
 
 ## 🚀 Methods
-- **Baseline:** Seasonal-Naïve forecast.  
+- **Baseline:** Seasonal-Naïve forecast.
 - **Planned Models:** SARIMAX with exogenous variables, Gradient Boosting.  
 - **Evaluation Metrics:** MAE, RMSE, MAPE, MASE, Directional Accuracy.  
 
